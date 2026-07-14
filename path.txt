@@ -1,1 +1,0 @@
-~/Library/Containers/io.playcover.PlayCover/Applications/uk.co.mediatonic.fallguys.app/Frameworks/UnityFramework.framework
